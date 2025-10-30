@@ -1,4 +1,4 @@
-## Hi there 👋
+## Quantum Safe Network
 
 **PQXNet** is a next-generation network infrastructure solutions provider pioneering **quantum-resilient connectivity** for enterprises, data centers, and cloud-native environments.
 
